@@ -1,2 +1,2 @@
 # TwitterEmbed
-Codify project exercise. Unfinished :)
+Codify project exercise. Only photo profile and x logo that can click function :)
